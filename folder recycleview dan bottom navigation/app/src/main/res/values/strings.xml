@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Movie App</string>
+    <string name="home">Home</string>
+    <string name="explore">Explore</string>
+    <string name="subscription">Subscription</string>
+    <string name="library">Library</string>
+    <string name="account">Account</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="movie_description">Movie Description</string>
+
+    <string name="luca">Luca</string>
+    <string name="ice">The Ice Age</string>
+    <string name="raya">Raya and The Last Dragon</string>
+    <string name="sing">Sing2</string>
+    <string name="finch">Finch</string>
+    <string name="jung">Jung_E</string>
+    <string name="andreas">San Andreas</string>
+    <string name="knowing">Knowing</string>
+
+
+</resources>

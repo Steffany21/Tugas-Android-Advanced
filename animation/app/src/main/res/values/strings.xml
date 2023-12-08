@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Animation</string>
+    <string name="description">Halo!! saya Steffany sedang mengikuti studi independen
+        di Infinite Learning Kampus Merdeka Program Mobile Development.
+        Mobile app development melibatkan penggunaan berbagai teknologi dan bahasa pemrograman, seperti Java,
+        Swift, dan Kotlin. Seorang mobile app developer harus memiliki pengetahuan dan keterampilan dalam menggunakan
+        teknologi dan bahasa pemrograman ini untuk membuat aplikasi mobile yang baik dan efektif.</string>
+    <string name="title">Mobile Development</string>
+</resources>
